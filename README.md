@@ -10,7 +10,6 @@ A modern, responsive, and user-friendly landing page for **CryptX**, a cybersecu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -89,18 +88,12 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Contact
 
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- **GitHub Profile**: [Your GitHub Profile](https://github.com/your-username)  
-- **Email**: your-email@example.com  
+- **GitHub Profile**: [Your GitHub Profile](https://github.com/rajromiopaul)  
+- **Email**: rajromiopaul@gmail.com  
 
 ---
 
