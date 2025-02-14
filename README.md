@@ -1,8 +1,5 @@
 # CryptX Landing Page
 
-![CryptX Banner](https://via.placeholder.com/800x200)  
-*(Replace this placeholder with an actual banner image if available)*
-
 A modern, responsive, and user-friendly landing page for **CryptX**, a cybersecurity solutions provider. This project showcases CryptX's services, features, and contact information in a clean and professional design.
 
 ## Table of Contents
