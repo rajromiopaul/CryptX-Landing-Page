@@ -35,7 +35,7 @@ A modern, responsive, and user-friendly landing page for **CryptX**, a cybersecu
 ## Live Demo
 
 You can view the live demo of this landing page here:  
-[Live Demo Link](#) *(Replace `#` with the actual deployment URL, e.g., GitHub Pages or Netlify)*
+[Live Demo Link](https://rajromiopaul.github.io/CryptX-Landing-Page/)
 
 ---
 
