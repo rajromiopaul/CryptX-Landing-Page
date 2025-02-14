@@ -61,7 +61,7 @@ This landing page is designed to be easily customizable. You can modify the cont
 
 - **Update Content**: Edit the text in `index.html` to reflect your brand or service.
 - **Change Colors**: Modify the CSS variables in the `<style>` section to match your branding.
-- **Add Features**: Extend functionality by adding more sections or integrating JavaScript.
+- **Add Features**: Extend functionality by integrating JavaScript.
 
 ---
 
@@ -90,7 +90,7 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- **GitHub Profile**: [Your GitHub Profile](https://github.com/rajromiopaul)  
+- **GitHub Profile**: [Raj Romio Paul](https://github.com/rajromiopaul)  
 - **Email**: rajromiopaul@gmail.com  
 
 ---
