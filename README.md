@@ -27,8 +27,6 @@ A modern, responsive, and user-friendly landing page for **CryptX**, a cybersecu
 
 - **HTML5**: Semantic structure for accessibility and SEO.
 - **CSS3**: Styling with modern design principles.
-- **JavaScript**: Minimal interactivity (can be expanded).
-- **Font Awesome**: Icons for feature cards and UI elements.
 
 ---
 
